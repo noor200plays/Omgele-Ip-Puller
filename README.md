@@ -1,4 +1,4 @@
-# Omgele-Ip-Puller
+# Omgele-Ip-Pullers
 
 
 > Use Wireshark(Installed on Kali Linux), Lance Remastered, or other Packet sniffers that work with UDP on omegle.
